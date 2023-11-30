@@ -15,7 +15,7 @@ if(nomdeveloppeur == "noe")
 {
     Console.WriteLine("Wesh " + nomdeveloppeur + "ca farte ?");
 }
-else if(nomdeveloppeur == "lucio")
+else if(nomdeveloppeur == "yannis")
 {
     Console.WriteLine("Wesh " + nomdeveloppeur + "ca roule ?");
 }
