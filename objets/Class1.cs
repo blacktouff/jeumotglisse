@@ -17,7 +17,7 @@ namespace jeumotglisse.objets
         }
         public string toString()
         {
-            return toto;
+            return toto + "";
         }
 
     }
